@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<h1 align="center">Sayfullah Saied</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank">
