@@ -1,5 +1,7 @@
-<h1 align="center"><b>Sayfullah Saied</b>b</h1>
-<h2 align="center">Network engineer - Help Desk Technician</h2>
+<div align="center">
+<h1>Sayfullah Saied</h1>
+<h2>Network engineer - Help Desk Technician</h2>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank">
