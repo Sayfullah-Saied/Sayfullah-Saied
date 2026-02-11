@@ -21,7 +21,7 @@
 ### 🧑‍💻 Areas of specialty:
 
 <p align="center">
-  - Windows Server and Active Directory administration <i class="devicon-windows11-original-wordmark colored"></i>
+  - Windows Server and Active Directory administration <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
 </p>
 
 ---
