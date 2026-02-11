@@ -4,8 +4,9 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank" style="color: blue">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+  Contact: 
+<a href="www.linkedin.com/in/sayfullah-saied-4469b5260" target="blank">
+  LinkedIn
 </a>&nbsp;
 <a href="https://twitter.com/YOUR-TWITTER" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" />
