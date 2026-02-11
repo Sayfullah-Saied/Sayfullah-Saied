@@ -38,40 +38,5 @@
 
 ---
 
-### 🛠️ Skills Snapshot
 
-- **Networking:** Routing & Switching, VLANs, TCP/IP, DNS, DHCP, NAT, VPNs  
-- **Systems:** Windows Server, Linux (Ubuntu/CentOS), Active Directory  
-- **Help Desk:** Ticketing systems, user support, hardware & software troubleshooting  
-- **Security:** CEH fundamentals, network scanning, basic hardening, monitoring  
-- **Virtualization & Labs:** VMware, VirtualBox, Docker (basic)  
-- **Tools:** Wireshark, Nmap, SSH, RDP, PowerShell (basic), Bash (basic)
 
----
-
-### 📊 GitHub Stats
-
-![Sayfullah's github stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=dark&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=dark)
-
----
-
-### 🧪 What You’ll Find in My Repos
-
-- 🧰 **Networking labs & configs** (CCNA-style)
-- 🖥️ **System administration notes & scripts**
-- 🐞 **Troubleshooting guides** for common help desk issues
-- 🔐 **Security practice labs** (CEH-related)
-- 📚 Documentation & learning resources
-
----
-
-### 💡 A Quote I Like
-
-> *“The network is only as reliable as the last change that wasn’t documented.”*
-
----
-
-### 😄 A Bit of Humor
-
-<img src="https://readme-jokes.vercel.app/api" alt="joke card" />
