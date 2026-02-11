@@ -3,18 +3,7 @@
 <h2>Network engineer - Help Desk Technician</h2>
 </div>
 
-<p align="center">
-  Contact: 
-<a href="www.linkedin.com/in/sayfullah-saied-4469b5260" target="blank">
-  LinkedIn
-</a>&nbsp;
-<a href="https://twitter.com/YOUR-TWITTER" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" />
-</a>&nbsp;
-<a href="mailto:YOUR-EMAIL">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" />
-</a>
-</p>
+
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
@@ -26,9 +15,6 @@
 - 🌐 Strong background in **enterprise networking, system administration, and IT operations**
 - 🎓 Certified **CCNA** & **CEH**
 - 🧑‍💻 Hands-on experience with **Help Desk operations**, resolving common **end-user issues**, and IT troubleshooting
-- 🔐 Interested in **network security, monitoring, and incident response**
-- 💬 Talk to me about **networking, troubleshooting weird user issues, security basics, and IT best practices**
-- ⚡ Fun fact: I enjoy breaking things in labs so they *don’t* break in production 😄
 
 ---
 
