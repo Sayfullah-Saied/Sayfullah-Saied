@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Welcom to my profile I'm Sayfullah Saied</h1>
 <h2>Network engineer - Help Desk Technician</h2>
-  <img src="human-evolution-8k-3840x2160-13629.png" alt="Description of image" width="400"/>
+  <img src="human-evolution-8k-3840x2160-13629.png" alt="Description of image" width="50" hight="50px"/>
 
 </div>
 
