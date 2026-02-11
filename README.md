@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Sayfullah Saied</h1>            <img src="https://stock.adobe.com/search?k=%22network+engineer%22" width="45" />
+<h1>Sayfullah Saied</h1>
 <h2>Network engineer - Help Desk Technician</h2>
 </div>
 
@@ -34,7 +34,7 @@
 ### 🧑‍💻 What I Work With
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco" width="65" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco](https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="55" height="55"/>
