@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Welcom to my profile I'm Sayfullah Saied</h1>
 <h2>Network engineer - Help Desk Technician</h2>
+  human-evolution-8k-3840x2160-13629.png
 </div>
 
 <div><p>🌐Find below my projects — I design and connect networks, build and manage systems, and work through real IT tickets to simulate practical, hands‑on experience🌐</p></div>
