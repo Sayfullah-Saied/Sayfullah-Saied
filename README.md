@@ -21,7 +21,11 @@
 ### 🧑‍💻 Areas of specialty:
 
 <p>
-  - Windows Server and Active Directory administration <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="30px" hight="30px" />
+  - Windows Server and Active Directory administration
+  - Microsoft 365 Administration 
+  - Tier 1 and Tier 2 help desk Support
+  - Linux Systems Administration (Red Hat, CentOS, Rocky Linux)
+  - Network Design and Implementation (CCNA, CCNP) 
 </p>
 
 ---
