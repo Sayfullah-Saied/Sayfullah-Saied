@@ -21,12 +21,20 @@
 ### 🧑‍💻 Areas of specialty:
 
 <p>
-  - Windows Server and Active Directory administration
-  - Microsoft 365 Administration 
-  - Tier 1 and Tier 2 help desk Support
-  - Linux Systems Administration (Red Hat, CentOS, Rocky Linux)
   - Network Design and Implementation (CCNA, CCNP) 
+<p/>
+<p>
+  - Windows Server and Active Directory administration
 </p>
+<p>
+  - Microsoft 365 Administration 
+<p/>
+<p>
+  - Tier 1 and Tier 2 help desk Support
+<p/>
+<p>
+   - Linux Systems Administration (Red Hat, CentOS, Rocky Linux)
+<p/>
 
 ---
 
