@@ -18,17 +18,10 @@
 
 ---
 
-### 🧑‍💻 What I Work With
+### 🧑‍💻 Areas of specialty:
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="cisco](https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="vmware" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="55" height="55"/>
+  - Windows Server and Active Directory administration <i class="devicon-windows11-original-wordmark colored"></i>
 </p>
 
 ---
