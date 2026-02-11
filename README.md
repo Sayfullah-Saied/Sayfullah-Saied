@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Welcom to my profile I'm Sayfullah Saied</h1><img src="human-evolution-8k-3840x2160-13629.png" alt="Description of image" width="600" hight="100px"/>
+<h1>Welcom to my profile I'm Sayfullah Saied</h1><img src="human-evolution-8k-3840x2160-13629.png" alt="Description of image" width="600px" hight="30px"/>
 <h2>Network engineer - Help Desk Technician</h2>
 
 
