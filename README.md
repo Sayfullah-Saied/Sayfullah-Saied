@@ -15,7 +15,7 @@
 
 - 👋 I'm **Sayfullah Saied**, a **Network Engineer & System Administrator**
 - 🌐 Strong background in **enterprise networking, system administration, and IT operations**
-- 🎓 Certified **CCNA** & **CEH**
+- 🎓 Bachelor of Science in Networks and Information Security - Certified **CCNA** & **CEH**
 - 🧑‍💻 Hands-on experience with **Help Desk operations**, resolving common **end-user issues**, and IT troubleshooting
 
 ---
