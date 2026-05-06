@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Welcom to my profile I'm Sayfullah Saied</h1>
-<h2>Network engineer - Help Desk Technician</h2>
+<h2>Welcom to my profile I'm Sayfullah Saied</h2>
+<h1>Network engineer - Help Desk Technician</h1>
 
 
 </div>
