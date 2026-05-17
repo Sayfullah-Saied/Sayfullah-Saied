@@ -25,7 +25,7 @@
 ### 🧑‍💻 Areas of specialty:
 
 <p>
-  - Network Design and Implementation (CCNA, CCNP) 
+  - Network Design and Implementation (CCNA) 
 <p/>
 <p>
   - Windows Server and Active Directory administration
