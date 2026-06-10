@@ -10,6 +10,10 @@
 
 [Networks Projects](https://github.com/Sayfullah-Saied/Networks-Projects)
 
+[Windows Server](https://github.com/Sayfullah-Saied/Windows-Server-Projects)
+
+[Ticketing Systems](https://github.com/Sayfullah-Saied/Ticketing-systems-and-tickets-working)
+
 
 
 
