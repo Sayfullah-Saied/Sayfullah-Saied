@@ -20,6 +20,19 @@
 
 [![Ticketing Systems](https://img.shields.io/badge/Ticketing_Systems-FF6A00?style=for-the-badge&logo=jira&logoColor=white)](your-link-here)
 
+<a href="your-link-here">
+  <img src="https://img.shields.io/badge/Networks_Projects-1E90FF?style=flat-square&logo=network&logoColor=white" />
+</a>
+
+<a href="your-link-here">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
+</a>
+
+<a href="your-link-here">
+  <img src="https://img.shields.io/badge/Ticketing_Systems-FF6A00?style=flat-square&logo=jira&logoColor=white" />
+</a>
+
+
 
 
 
