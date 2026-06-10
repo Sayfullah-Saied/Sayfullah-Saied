@@ -14,11 +14,12 @@
 
 [Ticketing Systems](https://github.com/Sayfullah-Saied/Ticketing-systems-and-tickets-working)
 
-[![Networks Projects](https://img.shields.io/badge/Networks_Projects-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Sayfullah-Saied/Networks-Projects)
+[![Networks Projects](https://img.shields.io/badge/Networks_Projects-4C8BF5?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Sayfullah-Saied/Networks-Projects)
 
-[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sayfullah-Saied/Windows-Server-Projects)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-2C2C2C?style=for-the-badge&logo=windows&logoColor=00ADEF)](https://github.com/Sayfullah-Saied/Windows-Server-Projects)
 
-[![Ticketing Systems](https://img.shields.io/badge/Ticketing_Systems-FF6A00?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Sayfullah-Saied/Ticketing-systems-and-tickets-working)
+[![Ticketing Systems](https://img.shields.io/badge/Ticketing_Systems-FF4F4F?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Sayfullah-Saied/Ticketing-systems-and-tickets-working)
+
 
 
 
