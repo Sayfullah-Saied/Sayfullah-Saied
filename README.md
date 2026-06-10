@@ -14,6 +14,13 @@
 
 [Ticketing Systems](https://github.com/Sayfullah-Saied/Ticketing-systems-and-tickets-working)
 
+[![Networks Projects](https://img.shields.io/badge/Networks_Projects-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](your-link-here)
+
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)](your-link-here)
+
+[![Ticketing Systems](https://img.shields.io/badge/Ticketing_Systems-FF6A00?style=for-the-badge&logo=jira&logoColor=white)](your-link-here)
+
+
 
 
 
