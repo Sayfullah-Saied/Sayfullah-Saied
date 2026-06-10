@@ -14,23 +14,12 @@
 
 [Ticketing Systems](https://github.com/Sayfullah-Saied/Ticketing-systems-and-tickets-working)
 
-[![Networks Projects](https://img.shields.io/badge/Networks_Projects-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](your-link-here)
+[![Networks Projects](https://img.shields.io/badge/Networks_Projects-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Sayfullah-Saied/Networks-Projects)
 
-[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)](your-link-here)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Sayfullah-Saied/Windows-Server-Projects)
 
-[![Ticketing Systems](https://img.shields.io/badge/Ticketing_Systems-FF6A00?style=for-the-badge&logo=jira&logoColor=white)](your-link-here)
+[![Ticketing Systems](https://img.shields.io/badge/Ticketing_Systems-FF6A00?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Sayfullah-Saied/Ticketing-systems-and-tickets-working)
 
-<a href="your-link-here">
-  <img src="https://img.shields.io/badge/Networks_Projects-1E90FF?style=flat-square&logo=network&logoColor=white" />
-</a>
-
-<a href="your-link-here">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
-</a>
-
-<a href="your-link-here">
-  <img src="https://img.shields.io/badge/Ticketing_Systems-FF6A00?style=flat-square&logo=jira&logoColor=white" />
-</a>
 
 
 
