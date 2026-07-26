@@ -8,7 +8,7 @@
 <div><p>🌐Find below my projects — I design and connect networks, build and manage systems, and work through real IT tickets to simulate practical, hands‑on experience🌐</p></div>
 
 
-<span style="padding-right:10px;">[![Networks Projects](https://img.shields.io/badge/Networks_Projects-4C8BF5?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Sayfullah-Saied/Networks-Projects)</span>  <span style="padding-right:10px;">![Fortigate Firewall](https://img.shields.io/badge/Fortigate_Firewall-CC0000?style=for-the-badge&logo=fortinet&logoColor=white)</span>
+[![Networks Projects](https://img.shields.io/badge/Networks_Projects-4C8BF5?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Sayfullah-Saied/Networks-Projects)&nbsp;&nbsp; ![Fortigate Firewall](https://img.shields.io/badge/Fortigate_Firewall-CC0000?style=for-the-badge&logo=fortinet&logoColor=white)
 
 
 
