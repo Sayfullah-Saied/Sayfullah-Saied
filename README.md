@@ -12,7 +12,7 @@
 
 
 
-[![Windows Server](https://img.shields.io/badge/Windows_Server-2C2C2C?style=for-the-badge&logo=windows&logoColor=00ADEF)](https://github.com/Sayfullah-Saied/Windows-Server-Projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Palo Alto Projects](https://img.shields.io/badge/Palo_Alto_Projects-FF6F00?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-2C2C2C?style=for-the-badge&logo=windows&logoColor=00ADEF)](https://github.com/Sayfullah-Saied/Windows-Server-Projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Palo Alto Projects](https://img.shields.io/badge/Palo_Alto_Projects-FF6F00?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 
 
 [![Ticketing Systems](https://img.shields.io/badge/Ticketing_Systems-FF4F4F?style=for-the-badge&logo=jira&logoColor=white)](https://github.com/Sayfullah-Saied/Ticketing-systems-and-tickets-working)&nbsp;&nbsp;&nbsp;&nbsp;  ![VPN](https://img.shields.io/badge/VPN-Configuration-2E8B57?style=for-the-badge&logo=protonvpn&logoColor=white)
